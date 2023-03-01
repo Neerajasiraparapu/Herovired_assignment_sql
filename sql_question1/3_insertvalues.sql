@@ -1,0 +1,10 @@
+insert into EmployeeDetails values ( 68319,'Mr.singh','PRESIDENT',68319,'1991-11-18',6000,1001);
+insert into EmployeeDetails values ( 68320,'arya','PRODUCT MANAGER',68320,'1992-12-1',67232,2762);
+insert into EmployeeDetails values ( 26352,'nova','PRODUCT MANAGER',73463,'1999-1-1',34232,2341);
+insert into EmployeeDetails values ( 26457,'stella','SOFTWARE DEVELOPER',43738,'1998-5-4',29832,763);
+insert into EmployeeDetails values ( 73465,'zoey','FSD',57484,'1999-3-8',98457,483);
+insert into EmployeeDetails values ( 47874,'thaigo','SOFTWARE TESTING',48754,'2000-5-5',27484,4548);
+insert into EmployeeDetails values ( 54744,'rowan','DATA SCIENCE',27322,'1998-12-12',98549,7587);
+insert into EmployeeDetails values ( 72637,'jack','SOFTWARE DEVELOPER',85676,'2002-5-6',67532,645);
+insert into EmployeeDetails values ( 35463,'amir','MANAGER',57543,'1988-8-8',75642,3654);
+insert into EmployeeDetails values ( 30222,'shanu','FSD',87343,'2001-4-3',36332,3476);
