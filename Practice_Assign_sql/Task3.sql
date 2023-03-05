@@ -18,4 +18,4 @@ from customer c INNER JOIN salesman s on c.salesman_id=s.salesman_id;
 customer city, Salesman, and commission.*/
 
 query:- select c.cust_name as "customer name",c.city,s.name as "salesman", s.city,s.commission 
-from customer c INNER JOIN salesman s on c.salesman_id=s.salesman_id where s.commission>.12 and c.city<>s.city;
+from customer c INNER JOIN salesman s on c.salesman_id=s.salesman_id where s.commission>0.12 and c.city<>s.city;
