@@ -10,7 +10,7 @@ select first_name as worker_name from Worker;
 /*2)Write an SQL query to find the position of the alphabet (‘a’) in the first name column ‘Amitabh’ from the Worker table.*/
 
 //query:-
-Select INSTR(first_name, BINARY'a') from Worker where first_name = 'Amitabh';
+Select INSTR(first_name, BINARY'a') from Worker where first_name='Amitabh';
 
 
 /*3) Write an SQL query to print the FIRST_NAME from the Worker table after replacing ‘a’ with ‘A’.*/
